@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さよならおまじない",
+  "base_artist": "高瀬統也",
+  "createdAt": "2025-12-03T09:33:40.714659Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならおまじない (feat. ロザリーナ)",
+      "artist": "高瀬統也",
+      "has_synced": false,
+      "path": "select/pl_01_さよならおまじない_(feat._ロザリーナ)_高瀬統也.txt"
+    }
+  ]
+}
